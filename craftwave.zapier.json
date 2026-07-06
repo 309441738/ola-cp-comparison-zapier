@@ -1,0 +1,10 @@
+{
+  "title": "Cruise Product Comparison",
+  "description": "在选择邮轮时，您可以比较不同邮轮产品的价格、行程和品牌，以帮助您做出更明智的决策。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
